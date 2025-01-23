@@ -1,0 +1,11 @@
+{
+  "name": "My First Repository",
+  "description": "This is a sample JSON file to practice Git and GitHub.",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Your Name",
+      "role": "Creator"
+    }
+  ]
+}
