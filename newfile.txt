@@ -1,0 +1,9 @@
+This is a sample text file.
+You can use it to practice Git and GitHub commands.
+
+Here are some ideas for your project:
+- Learn Git basics.
+- Collaborate on GitHub.
+- Create meaningful content.
+
+Happy coding!
